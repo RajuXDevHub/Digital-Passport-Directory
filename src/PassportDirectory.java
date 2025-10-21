@@ -1,7 +1,5 @@
 import java.util.*;
 
-
-
 class Passport {
     private String name ;
     private String city ;
@@ -19,7 +17,7 @@ class Passport {
     }
 }
 
-public class PasswordDirectory {
+public class PassportDirectory {
     public static void main(String[] args) {
 
 
